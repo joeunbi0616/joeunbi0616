@@ -1,4 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=faf49d,add8e6)
-
-
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:faf49d,100:add8e6)
