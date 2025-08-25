@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;Jo+Eun-bi,+a+software+major)](https://git.io/joeunbi0616)
+![header](https://capsule-render.vercel.app/api?type=soft&color=faf49d,add8e6)
 
 
 
